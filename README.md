@@ -104,3 +104,4 @@ To deploy a theme as an archive, create a JAR archive with the theme resources.
 ```bash
 pnpm build:jar
 ```
+"# s3bglobal-theme" 
