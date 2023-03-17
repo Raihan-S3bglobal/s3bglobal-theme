@@ -1,0 +1,15 @@
+{
+ "themes": [
+ {
+ "name": "s3bglobal",
+ "types": ["login"]
+ },{
+  "name": "S3bglobalTheme_1",
+  "types": ["login"]
+}
+ ]
+}
+
+
+
+
